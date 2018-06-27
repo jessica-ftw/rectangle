@@ -3,7 +3,7 @@
 namespace Geometry.Interfaces
 {
 	/// <summary>
-	/// Contract for all classes which are able to detect intersection between geometric shapes!!
+	/// Contract for all classes which are able to detect intersection between geometric shapes
 	/// </summary>
 	public interface IDetectIntersection
 	{
